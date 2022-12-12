@@ -10,12 +10,12 @@
       2. Blood donors are found and contacted easily.
       3. Locations of Bloodcamps are updated, so that voluntering people can donate. 
       
- Problem statement -
+ Problem statement - https://docs.google.com/document/d/1btUBg-GKzqbGbDY6SzPO2IVoUB98udKlk-qjQZmM0-w/edit?usp=sharing
  
- Market Research -
+ Market Research - https://docs.google.com/document/d/12D4vnDyOOGwOclLK_3mGyBvHq9F84w-XB8FVKaUnuEY/edit?usp=sharing
  
- Wire Flow - 
+ Wire Flow - https://drive.google.com/file/d/1X9cen8s8_cPgvcbT2Tg5h04ZYNCtbh-z/view?usp=share_link
  
- User Flow - 
+ User Flow - https://drive.google.com/file/d/1XrnxRMmZt-YwHW9nzxg5AO1_0S0VvZ2Y/view?usp=share_link
  
  DONOR live website - 
