@@ -1,5 +1,5 @@
 {
-  "name": "kingston.william__web_project",
+  "name": "donor",
   "version": "1.0.0",
   "description": "100-Day Project :\"Donor - Blood donation site\"",
   "main": "main.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingstonwilliam/kingston.william__web_project.git"
+    "url": "git+https://github.com/kingstonwilliam/100-Day-Project.git"
   },
   "author": "kingstonwilliam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kingstonwilliam/kingston.william__web_project/issues"
+    "url": "https://github.com/kingstonwilliam/100-Day-Project/issues"
   },
-  "homepage": "https://github.com/kingstonwilliam/kingston.william__web_project#readme",
+  "homepage": "https://github.com/kingstonwilliam/100-Day-Project#readme",
   "dependencies": {
     "http-server": "^14.1.1"
   }
