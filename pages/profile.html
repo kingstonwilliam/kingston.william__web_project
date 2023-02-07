@@ -13,7 +13,7 @@
 <body>
   <div class="content">
     <img src="../assets/img/profile.png.png" id="ethernium">
-    <h2>Name    :w.kingston</h2>
+    <h2 id="profilename">w.kingston</h2>
     <h3>EMaIL ADD:Kingston@gmail.com</h3>
     <h3>BLOOD GROUP: "O+"</h3>
     <h3>Phone No: 6383705215</h3>
@@ -22,6 +22,14 @@
 
    
   </div>
+  <script>
+const name = localStorage.getItem("name")
+console.log(name);
+
+document.getElementById("profilename").innerText = name;
+
+
+  </script>
 </body>
 
 </html>

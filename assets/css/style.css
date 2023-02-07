@@ -27,7 +27,6 @@ ul {
 
 .active {
   color: var(--primary);
-  text-decoration: underline;
   font-weight: bold;
 }
 
@@ -403,7 +402,7 @@ input[type="submit"] :hover {
 
   width: 100vw;
   height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/donorimage.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/bgdonorimage.jpg");
   background-position: bottom;
   background-size: cover;
 
